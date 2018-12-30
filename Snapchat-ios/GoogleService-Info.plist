@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>582412716758-1aqh1fv2cdfmt3lsmk8813l7e3vgd4tr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.582412716758-1aqh1fv2cdfmt3lsmk8813l7e3vgd4tr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEBsMjOgoJT19yedCLivpCtGO6x-imAmE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>582412716758</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mcgoldricksolutions.udemy.Snapchat-ios</string>
+	<key>PROJECT_ID</key>
+	<string>countylifeguard-aexlnu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>countylifeguard-aexlnu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:582412716758:ios:b7582a0bd08dcc51</string>
+	<key>DATABASE_URL</key>
+	<string>https://countylifeguard-aexlnu.firebaseio.com</string>
+</dict>
+</plist>
