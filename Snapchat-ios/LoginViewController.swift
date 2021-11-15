@@ -1,10 +1,9 @@
-//
-//  ViewController.swift
-//  Snapchat-ios
-//
-//  Created by dirtbag on 12/28/18.
-//  Copyright © 2018 dirtbag. All rights reserved.
-//
+
+  ViewController.swiftSnapchat-ios
+  Created by dirtbag on 12/28/18.
+  Copyright © 2018 dirtbag. All rights reserved.
+
+
 
 import UIKit
 import FirebaseAuth
@@ -24,7 +23,7 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+          Do any additional setup after loading the view, typically from a nib.
     }
 
     @IBAction func actionLoginSignup(_ sender: Any) {
